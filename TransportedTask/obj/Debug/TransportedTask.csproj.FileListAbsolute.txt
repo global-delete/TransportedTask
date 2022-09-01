@@ -1,0 +1,43 @@
+c:\users\1\documents\visual studio 2015\Projects\TransportedTask\TransportedTask\bin\Debug\TransportedTask.exe.config
+c:\users\1\documents\visual studio 2015\Projects\TransportedTask\TransportedTask\bin\Debug\TransportedTask.exe
+c:\users\1\documents\visual studio 2015\Projects\TransportedTask\TransportedTask\bin\Debug\TransportedTask.pdb
+c:\users\1\documents\visual studio 2015\Projects\TransportedTask\TransportedTask\obj\Debug\TransportedTask.csprojResolveAssemblyReference.cache
+c:\users\1\documents\visual studio 2015\Projects\TransportedTask\TransportedTask\obj\Debug\TransportedTask.exe
+c:\users\1\documents\visual studio 2015\Projects\TransportedTask\TransportedTask\obj\Debug\TransportedTask.pdb
+C:\Users\1\Documents\Visual Studio 2015\Projects\6 семестр\TransportedTask\TransportedTask\bin\Debug\TransportedTask.exe.config
+C:\Users\1\Documents\Visual Studio 2015\Projects\6 семестр\TransportedTask\TransportedTask\obj\Debug\TransportedTask.exe
+C:\Users\1\Documents\Visual Studio 2015\Projects\6 семестр\TransportedTask\TransportedTask\obj\Debug\TransportedTask.pdb
+C:\Users\1\Documents\Visual Studio 2015\Projects\6 семестр\TransportedTask\TransportedTask\bin\Debug\TransportedTask.exe
+C:\Users\1\Documents\Visual Studio 2015\Projects\6 семестр\TransportedTask\TransportedTask\bin\Debug\TransportedTask.pdb
+C:\Users\1\Documents\Visual Studio 2015\Projects\6 семестр\TransportedTask\TransportedTask\obj\Debug\TransportedTask.csprojResolveAssemblyReference.cache
+C:\Users\1\Documents\Visual Studio 2015\Projects\Учёба\ИОиМО\6 семестр\TransportedTask\TransportedTask\bin\Debug\TransportedTask.exe.config
+C:\Users\1\Documents\Visual Studio 2015\Projects\Учёба\ИОиМО\6 семестр\TransportedTask\TransportedTask\obj\Debug\TransportedTask.exe
+C:\Users\1\Documents\Visual Studio 2015\Projects\Учёба\ИОиМО\6 семестр\TransportedTask\TransportedTask\obj\Debug\TransportedTask.pdb
+C:\Users\1\Documents\Visual Studio 2015\Projects\Учёба\ИОиМО\6 семестр\TransportedTask\TransportedTask\bin\Debug\TransportedTask.exe
+C:\Users\1\Documents\Visual Studio 2015\Projects\Учёба\ИОиМО\6 семестр\TransportedTask\TransportedTask\bin\Debug\TransportedTask.pdb
+C:\Users\1\Documents\Visual Studio 2015\Projects\Учёба\ИОиМО\6 семестр\TransportedTask\TransportedTask\obj\Debug\TransportedTask.csprojResolveAssemblyReference.cache
+C:\Users\1\Documents\Visual Studio 2015\Projects\Учёба\ИОиМО\6 семестр\TransportedTask - копия\TransportedTask\bin\Debug\TransportedTask.exe.config
+C:\Users\1\Documents\Visual Studio 2015\Projects\Учёба\ИОиМО\6 семестр\TransportedTask - копия\TransportedTask\obj\Debug\TransportedTask.exe
+C:\Users\1\Documents\Visual Studio 2015\Projects\Учёба\ИОиМО\6 семестр\TransportedTask - копия\TransportedTask\obj\Debug\TransportedTask.pdb
+C:\Users\1\Documents\Visual Studio 2015\Projects\Учёба\ИОиМО\6 семестр\TransportedTask - копия\TransportedTask\bin\Debug\TransportedTask.exe
+C:\Users\1\Documents\Visual Studio 2015\Projects\Учёба\ИОиМО\6 семестр\TransportedTask - копия\TransportedTask\bin\Debug\TransportedTask.pdb
+C:\Users\1\Documents\Visual Studio 2015\Projects\Учёба\ИОиМО\6 семестр\TransportedTask - копия\TransportedTask\obj\Debug\TransportedTask.csprojResolveAssemblyReference.cache
+C:\Users\1\Documents\Visual Studio 2015\Projects\Учёба\ИОиМО\6 семестр\новое\TransportedTask\TransportedTask\bin\Debug\TransportedTask.exe.config
+C:\Users\1\Documents\Visual Studio 2015\Projects\Учёба\ИОиМО\6 семестр\новое\TransportedTask\TransportedTask\obj\Debug\TransportedTask.exe
+C:\Users\1\Documents\Visual Studio 2015\Projects\Учёба\ИОиМО\6 семестр\новое\TransportedTask\TransportedTask\obj\Debug\TransportedTask.pdb
+C:\Users\1\Documents\Visual Studio 2015\Projects\Учёба\ИОиМО\6 семестр\новое\TransportedTask\TransportedTask\bin\Debug\TransportedTask.exe
+C:\Users\1\Documents\Visual Studio 2015\Projects\Учёба\ИОиМО\6 семестр\новое\TransportedTask\TransportedTask\bin\Debug\TransportedTask.pdb
+C:\Users\1\Documents\Visual Studio 2015\Projects\Учёба\ИОиМО\6 семестр\новое\TransportedTask\TransportedTask\obj\Debug\TransportedTask.csprojResolveAssemblyReference.cache
+D:\Документы\Каи\Пройденные курсы\ИОиМО\Гарифуллин С.И. гр. 4316_2018-2019 ИОиМО\TransportedTask\TransportedTask\bin\Debug\TransportedTask.exe.config
+D:\Документы\Каи\Пройденные курсы\ИОиМО\Гарифуллин С.И. гр. 4316_2018-2019 ИОиМО\TransportedTask\TransportedTask\obj\Debug\TransportedTask.exe
+D:\Документы\Каи\Пройденные курсы\ИОиМО\Гарифуллин С.И. гр. 4316_2018-2019 ИОиМО\TransportedTask\TransportedTask\obj\Debug\TransportedTask.pdb
+D:\Документы\Каи\Пройденные курсы\ИОиМО\Гарифуллин С.И. гр. 4316_2018-2019 ИОиМО\TransportedTask\TransportedTask\bin\Debug\TransportedTask.exe
+D:\Документы\Каи\Пройденные курсы\ИОиМО\Гарифуллин С.И. гр. 4316_2018-2019 ИОиМО\TransportedTask\TransportedTask\bin\Debug\TransportedTask.pdb
+D:\Документы\Каи\Пройденные курсы\ИОиМО\Гарифуллин С.И. гр. 4316_2018-2019 ИОиМО\TransportedTask\TransportedTask\obj\Debug\TransportedTask.csprojResolveAssemblyReference.cache
+C:\Users\misku\Desktop\TransportedTask\TransportedTask\bin\Debug\TransportedTask.exe.config
+C:\Users\misku\Desktop\TransportedTask\TransportedTask\bin\Debug\TransportedTask.exe
+C:\Users\misku\Desktop\TransportedTask\TransportedTask\bin\Debug\TransportedTask.pdb
+C:\Users\misku\Desktop\TransportedTask\TransportedTask\obj\Debug\TransportedTask.csprojAssemblyReference.cache
+C:\Users\misku\Desktop\TransportedTask\TransportedTask\obj\Debug\TransportedTask.csproj.CoreCompileInputs.cache
+C:\Users\misku\Desktop\TransportedTask\TransportedTask\obj\Debug\TransportedTask.exe
+C:\Users\misku\Desktop\TransportedTask\TransportedTask\obj\Debug\TransportedTask.pdb
